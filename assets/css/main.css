@@ -245,6 +245,14 @@ h6 {
   .header .topbar .contact-info i span {
     font-size: 13px;
   }
+
+  .phone span {
+    display: none;
+  }
+
+  .header .topbar .contact-info .bi-phone {
+    display: none !important;
+  }
 }
 
 .header .topbar .contact-info i a {
